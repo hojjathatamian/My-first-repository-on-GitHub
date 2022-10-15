@@ -1,0 +1,6 @@
+print('tehran')
+print('kashan')
+print('kerman')
+print('tehran',end=' ')
+print('kashan',end=' ')
+print('kerman')
